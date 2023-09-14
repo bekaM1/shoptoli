@@ -1,8 +1,8 @@
 .question{
     color: var(--Dark-Text, #222);
     text-align: center;
-    /* Large/Large 48 */
     font-family: Mulish;
+    /* Large/Large 48 */
     font-size: 48px;
     font-style: normal;
     font-weight: 800;
