@@ -1,0 +1,109 @@
+.question{
+    color: var(--Dark-Text, #222);
+    text-align: center;
+    /* Large/Large 48 */
+    font-family: Mulish;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 160%;
+}
+.anketa{
+    width: 790px;
+    height: 100px;
+    flex-shrink: 0;
+    border: 0.5px solid var(--Light-Grey, #DDD);
+    background: #FFF;
+    padding-left: 20px;
+    margin-left: 250px;
+}
+.end{
+    display: flex;
+    justify-content: space-around;
+    margin-top: -85px;
+    margin-left: 250px;
+}
+.tugmacha{
+    width: 200px;
+    height: 60px;
+    flex-shrink: 0;
+    background-color: #FFA149;
+    color: #fff;
+    margin-left: -600px;
+}
+.two-items{
+    display: flex;
+}
+.down{
+    width: 24px;
+    height: 24px;
+    flex-shrink: 0;
+    margin-left: -600px;
+    margin-top: 18px;
+}
+.types-web{
+    color: var(--Dark-Text, #222);
+    font-family: Mulish;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 170%;
+    width: 100px;
+    height: 28px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+}
+.last-one{
+    fill: var(--Grey-Background, #F9F9F9);
+}
+.logos{
+    display: flex;
+}
+footer{
+    margin-top: 200px;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 100px;
+    
+}
+.logotip{
+    text-decoration: none;
+    width: 38px;
+    height: 25px;
+    flex-shrink: 0;
+    border-radius: 12px;
+    background: var(--Primary-Landing-Page-1, #FFA149);
+    text-align: center;
+    padding-top: 12px;
+    color: #FFF;
+    margin: 10px 10px 0px 0px;
+}
+.fotos{
+    margin-top: 40px;
+}
+.service{
+    color: var(--Secondary-Dark-Text, #333);
+    font-family: Mulish;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 170%; 
+}
+.add-info{
+    color: var(--Secondary-Dark-Text, #333);
+    text-align: center;
+    font-family: Mulish;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 170%;
+}
+.head-word{
+    color: var(--Secondary-Dark-Text, #333);
+    font-family: Mulish;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 170%; 
+}
